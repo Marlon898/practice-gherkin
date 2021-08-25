@@ -57,7 +57,5 @@ E preencher o campo "senha" com o valor "sua_senha"
 E clicar no botão "continuar"
 Então o sistema exibe a mensagem "Usuário ou senha incorreta"
 
-Cenário: usuário sem cadastro
 
-Dado que eu seja um usuário que comprou no site sem se Cadastrar
 
